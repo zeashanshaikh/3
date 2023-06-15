@@ -1,4 +1,4 @@
-# 3
+# hollywood films 
 aim was to make an assignment using R programming and power bi
 i had to clean the data first and the check whether there were and duplicates and then check whther there were any anamolies 
 the data was interesting as it was to do with hollywood films and found out many interesting facts like comedy was the highest rating on rotten tomatoes 
